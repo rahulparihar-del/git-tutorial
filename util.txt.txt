@@ -1,1 +1,1 @@
-this is how to run git hub
+utility function for version 1
